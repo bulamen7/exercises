@@ -17,7 +17,6 @@ public class Main {
             String name = sc.nextLine();
             names.add(name);
             String path = "C:\\Users\\Arkadiusz\\IdeaProjects\\untitled3" + File.separator + name + File.separator;
-
             Files.createDirectory(Paths.get(name));
             File txtFile = new File(path + name + ".txt");
             File docFile = new File(path + name + ".docx");
