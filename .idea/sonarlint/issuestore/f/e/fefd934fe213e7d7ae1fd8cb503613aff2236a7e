@@ -1,8 +1,2 @@
 
-Dsquid:S1075"&Remove this hard-coded path-delimiter.(ÔÔá 8êÊğœê-
-Osquid:S1481",Remove this unused "pdfFile" local variable.(³­µÕùÿÿÿÿ8Äûôœê-
-Isquid:S1075"&Remove this hard-coded path-delimiter.(³­µÕùÿÿÿÿ8Äûôœê-
-Dsquid:S1075"&Remove this hard-coded path-delimiter.(ŠæŸÓ8êÊğœê-
-Isquid:S1075"&Remove this hard-coded path-delimiter.(™ºŞ¿úÿÿÿÿ8Äûôœê-
-Psquid:S1481"-Remove this unused "xlsxFile" local variable.(™ºŞ¿úÿÿÿÿ8Äûôœê-
-Dsquid:S1075"&Remove this hard-coded path-delimiter.(§§õª8êÊğœê-
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8“µ™¥ê-
